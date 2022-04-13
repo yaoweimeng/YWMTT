@@ -16,7 +16,7 @@
     // 0.定义返回的对象
     UIImage *image = nil;
     // 1.判断是否是iOS7
-    if (iOS7) {
+    if (YES) {
         // 要在图片名称后面拼接_os7
         NSString *iOS7Name = [name stringByAppendingString:@"_os7"];
         image = [UIImage imageNamed:iOS7Name];

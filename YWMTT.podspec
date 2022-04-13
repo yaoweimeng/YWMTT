@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YWMTT'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of YWMTT.'
+  s.summary          = 'YWMTT.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+这是一个工具,很好用的工具,特备棒,谁用都说牛逼
                        DESC
 
-  s.homepage         = 'https://github.com/yaoweimeng225@163.com/YWMTT'
+  s.homepage         = 'http://www.teyuntong.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yaoweimeng225@163.com' => '“2853823211@qq.com”' }

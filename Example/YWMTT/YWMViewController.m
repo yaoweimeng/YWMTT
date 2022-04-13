@@ -7,6 +7,7 @@
 //
 
 #import "YWMViewController.h"
+#import "UIImage+NJ.h"
 
 @interface YWMViewController ()
 

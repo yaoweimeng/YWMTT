@@ -25,4 +25,8 @@
 + (instancetype)resizableImageNamed:(NSString *)name;
 
 + (instancetype)resizableImageNamed:(NSString *)name left:(CGFloat)left top:(CGFloat)top;
+
+
++ (instancetype)resizableImageNamed:(NSString *)name string:(NSString *)string;
+
 @end
